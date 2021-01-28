@@ -1,8 +1,8 @@
 # distance-monitor
 This is the code for the distance monitor project that I posted on Instagram!
 
-To build this project yourself, look at the list of materials that I put on my Instagram caption.
-
+If you want to build this project yourself, here are the list of materials:
+-
 Once you've finished building the electronics, download the Arduino open source IDE from https://www.arduino.cc/en/software/.
 
 Open up the IDE and copy the code from this repository (or write your own).
